@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import "./scss/index.scss";
 
 function App() {
   return (
-    <div>App</div>
+    <div className='dashboard'></div>
   )
 }
 
