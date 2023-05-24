@@ -91,7 +91,7 @@ const data = [
 function DailyMetric() {
   return (
     <div className="top__card">
-      <h3>Daily Views</h3>
+      <h3>Daily Sell</h3>
       <span>March 2023-April 2023</span>
       <ResponsiveContainer width="100%" height="80%">
         <AreaChart data={data}>

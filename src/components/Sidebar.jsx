@@ -3,7 +3,7 @@ import { IoStatsChartSharp } from "react-icons/io5";
 import { HiMusicNote } from "react-icons/hi";
 import { FiUsers, FiSettings } from "react-icons/fi";
 import { SiDatacamp, Si1001Tracklists } from "react-icons/si";
-import Logo from "../assets/logo.png";
+import Logo from "../assets/music-logo.jpg";
 import Player from "./Player";
 
 function Sidebar() {
