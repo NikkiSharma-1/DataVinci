@@ -10,8 +10,16 @@ function TrendingTracks() {
     <div className="trending__tracks">
       <div className="trending__info">
         <div>
-          <h3>Trending Tracks</h3>
+          <h3>Trending Purchases</h3>
           <span>Today</span>
+        </div>
+        <div>
+            <form>
+                <select>
+                    <option>Likes</option>
+                    <option>Plays</option>
+                </select>
+            </form>
         </div>
         <div className="icon">
           <BsArrowRight />

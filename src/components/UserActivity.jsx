@@ -29,7 +29,7 @@ const data = [
     songListened: 4800,
   },
   {
-    name: "Sa",
+    name: "Sat",
     songDiscovered: 2390,
     songListened: 3800,
   },

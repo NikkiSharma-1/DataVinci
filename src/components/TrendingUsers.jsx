@@ -10,7 +10,7 @@ function TrendingUsers() {
     <div className="trending__users">
       <div className="trending__info">
         <div>
-          <h3>Trending Users</h3>
+          <h3>Trending Singers</h3>
           <span>Today</span>
         </div>
         <div className="icon">
